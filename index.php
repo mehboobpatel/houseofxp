@@ -216,42 +216,7 @@ include('./admin/include/config.php')
                             <a href="<?php echo $blog_data['slug'] ?>">Read more<i class="fa-solid ms-3 fa-chevron-up"></i></a>
                         </div>
                     </div>
-                <?php } ?>
-                <!-- <div class="card">
-                    <div class="card-head">
-                    <a href="blogpage2"> <img  src="./images/blog2.jpeg" alt=""></a>
-                    </div>
-                    <div class="card-body">
-                        <span>What makes the difference between a good and a great experience:</span>
-                        <p></p>
-                        <a href="">Read more<i class="fa-solid ms-3 fa-chevron-up"></i></a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-head">
-                    <a href="blogpage3"> <img  src="./images/blog3.jpeg" alt=""></a>
-                    </div>
-                    <div class="card-body">
-                        <span>Take advantage of FOMO</span>
-                        <p>
-                        </p>
-                        <a href="">Read more<i class="fa-solid ms-3 fa-chevron-up"></i></a>
-                    </div>
-                </div>
-
-                <div class="card mb-5">
-                    <div class="card-head">
-                    <a href="blogpage4"> <img  src="./images/blog4.jpeg" alt=""></a>
-                    </div>
-                    <div class="card-body">
-                        <span>Influencer Marketing Trends to Watch in 2022:</span>
-                        <p></p>
-                        <a href="">Read more<i class="fa-solid ms-3 fa-chevron-up"></i></a>
-                    </div>
-                </div> -->
-
-
+                <?php } ?>               
             </div>
         </div>
     </section>
@@ -266,39 +231,7 @@ include('./admin/include/config.php')
                 <div class="col-lg-7">
                     <div class="contact-form">
                         <img src="images/Experience Excellence.png" alt="">
-                        <!-- <h2>Enter your details</h2>
-                        <form action="">
-                            <div class="mb-4 row">
-                                <div class="col-lg-6">
-                                    <label for="exampleFormControlInput1" class="form-label">Email
-                                        address</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-                                </div>
-                                <div class="col-lg-6">
-                                    <label for="exampleFormControlInput1" class="form-label mt-4 mt-lg-0">Email
-                                        address</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-                                </div>
-                            </div>
-                            <div class="mb-4">
-                                <label for="exampleFormControlTextarea1" class="form-label">Example
-                                    textarea</label>
-                                <select class="form-select" aria-label="Default select example">
-                                    <option selected>Open this select menu</option>
-                                    <option value="1">One</option>
-                                    <option value="2">Two</option>
-                                    <option value="3">Three</option>
-                                </select>
-                            </div>
-                            <div class="mb-4">
-                                <label for="exampleFormControlTextarea1" class="form-label">Example
-                                    textarea</label>
-                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                            </div>
-
-                            <button type="submit" class="btn btn-primary">Submit</button>
-                        </form>
-                        </form> -->
+                        
                     </div>
                 </div>
             </div>
