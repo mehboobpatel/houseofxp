@@ -78,7 +78,7 @@ include('./admin/include/config.php')
                 <h2 class="mb-md-5">Services we offer</h2>
             </div>
             <div class="col-12 col-md-4">
-                <a class="box" href="creative">
+                <a class="box" href="creative.php">
                     <img src="images/b-women.jpg" alt="">
                     <div class="box_content">
                         Content & Creatives
@@ -86,7 +86,7 @@ include('./admin/include/config.php')
                 </a>
             </div>
             <div class="col-12 col-md-4">
-                <a class="box" href="video">
+                <a class="box" href="video.php">
                     <img src="images/blog4.jpeg" alt="">
                     <div class="box_content">
                         Video Production
@@ -94,7 +94,7 @@ include('./admin/include/config.php')
                 </a>
             </div>
             <div class="col-12 col-md-4">
-                <a class="box" href="image">
+                <a class="box" href="image.php">
                     <img src="images/Brand 1.png" alt="">
                     <div class="box_content">
                         Image Management
@@ -102,7 +102,7 @@ include('./admin/include/config.php')
                 </a>
             </div>
             <div class="col-12 col-md-4">
-                <a class="box" href="events">
+                <a class="box" href="events.php">
                     <img src="images/blog1.jpeg" alt="">
                     <div class="box_content">
                         Event and Production
@@ -110,7 +110,7 @@ include('./admin/include/config.php')
                 </a>
             </div>
             <div class="col-12 col-md-4">
-                <a class="box" href="marketing">
+                <a class="box" href="marketing.php">
                     <img src="images/marketing.jpg" alt="">
                     <div class="box_content">
                         Marketing Analytics
@@ -157,7 +157,7 @@ include('./admin/include/config.php')
             <div class="inner">
                 <h2>How to get started.</h2>
                 <p>Connect with us to grow your business</p>
-                <strong><a href="contactus">Contact us</a> <i class="fa-solid fa-chevron-up"></i></strong>
+                <strong><a href="contactus.php">Contact us</a> <i class="fa-solid fa-chevron-up"></i></strong>
             </div>
             <div class="tab-container">
                 <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -223,7 +223,7 @@ include('./admin/include/config.php')
             <div class="row">
                 <div class="col-lg-5">
                     <div class="contact-info">
-                        <button class="c-btn"><a href="contact">Lets' Connect</a></button>
+                        <button class="c-btn"><a href="contact.php">Lets' Connect</a></button>
                     </div>
                 </div>
                 <div class="col-lg-7">
