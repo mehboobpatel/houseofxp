@@ -132,7 +132,7 @@ include('./include/header.php')
     </div>
     <div class="common-cta d-flex flex-column justify-content-center align-items-center ">
         <h5>Do you have any event in mind?</h5>
-        <button class="btn"><a href="contact">Let’s connect</a></button>
+        <button class="btn"><a href="contact.php">Let’s connect</a></button>
     </div>
 </div>
 <?php
