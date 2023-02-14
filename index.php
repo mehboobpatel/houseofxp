@@ -192,7 +192,7 @@ include('./admin/include/config.php')
             <h2>Blogs</h2>
             <p class="p3"> </p>
             <div class="blog-list">
-                <?php
+                <!-- <!--?php
                 $stmt_blog = $conn->prepare("SELECT * FROM `post` WHERE status=1");
                 $stmt_blog->execute();
                 while ($blog_data = $stmt_blog->fetch(PDO::FETCH_ASSOC)) {
@@ -216,9 +216,7 @@ include('./admin/include/config.php')
                             <a href="<?php echo $blog_data['slug'] ?>">Read more<i class="fa-solid ms-3 fa-chevron-up"></i></a>
                         </div>
                     </div>
-                <?php } ?>               
-            </div>
-        </div>
+                <?php?>-->> 
     </section>
     <section class="section-7">
         <div class="container-fluid">
