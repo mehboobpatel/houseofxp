@@ -27,7 +27,7 @@
                 <div class="menu add-item-dropdown">
                 <ul style="font-size:35px" class="navbar-nav ms-lg-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="blogs">Blogs</a>
+                            <a class="nav-link active" aria-current="page" href="blogs.php">Blogs</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" 
@@ -38,10 +38,10 @@
                         <!--    <a class="nav-link active" aria-current="page" href="service">Services</a>-->
                         <!--</li>-->
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="about">About</a>
+                            <a class="nav-link active" aria-current="page" href="about.php">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="contact">Contact</a>
+                            <a class="nav-link active" aria-current="page" href="contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -52,21 +52,21 @@
                     <!--</div>-->
                     <ul style="font-size:35px" class="navbar-nav ms-lg-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="blogs">Blogs</a>
+                            <a class="nav-link active" aria-current="page" href="blogs.php">Blogs</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" 
-                            href="service">Services</a>
+                            href="service.php">Services</a>
                         </li>
                         
                         <!--<li class="nav-item">-->
                         <!--    <a class="nav-link active" aria-current="page" href="service">Services</a>-->
                         <!--</li>-->
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="about">About</a>
+                            <a class="nav-link active" aria-current="page" href="about.php">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="contact">Contact</a>
+                            <a class="nav-link active" aria-current="page" href="contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
